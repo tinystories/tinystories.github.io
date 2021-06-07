@@ -4,13 +4,13 @@
 stories:
   - category: Flash Fiction
     items:
-      - item: 01_untitled_story841.html
+      - item: 05_stopped_clock.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: 02_monster_repellent.html
+      - item: 04_the_fairy_ring.html
         image: /images/NYC2.jpg
       - item: 03_the_winter_cabin.html
         image: /images/NYC3.jpg
-      - item: 04_the_fairy_ring.html
+      - item: 02_monster_repellent.html
         image: /images/NYC3.jpg
-      - item: 05_stopped_clock.html
+      - item: 01_untitled_story841.html 
        image: /images/NYC3.jpg
