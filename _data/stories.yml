@@ -4,11 +4,9 @@
 stories:
   - category: Flash Fiction
     items:
-      - item: example.html
+      - item: 01_untitled_story841.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
-      - item: example.html
+      - item: 02_monster_repellent.html
         image: /images/NYC2.jpg
-      - item: example2.html
+      - item: 03_the_winter_cabin.html
         image: /images/NYC3.jpg
-      - item: example3.html
-        image: /images/NYC4.jpg
