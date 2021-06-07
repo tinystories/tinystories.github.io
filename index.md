@@ -17,8 +17,8 @@ favicon: /assets/ico/favicon.ico
 github_username:  tinystories # your github username
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://github.com/saragong/hello # the link
-about_button_label: get hello # the label on the button
+about_button: https://www.westlothianwriters.org.uk/ # the link
+about_button_label: visit the WLWriters website # the label on the button
 
 # optional portfolio section ------------------------------------------
 
