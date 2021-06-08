@@ -1,4 +1,4 @@
-layout: page
+layout: hello-default
 title: "privacy"
 permalink: /privacy/
 
