@@ -23,21 +23,6 @@ github_username:  tinystories # your github username
 about_button: https://www.westlothianwriters.org.uk/ # the link
 about_button_label: visit the WLWriters website # the label on the button
 
-# optional portfolio section ------------------------------------------
-
-# By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
-
-portfolio: stories # the heading for your portfolio and title of your YAML file
-portfolio_description: Read Emma's published flash fiction online for free.
-
-# optional CTA section --------------------------------------------------
-
-# By declaring these variables, you can include a CTA section.
-<!---cta: connect # the heading for your CTA section--->
-<!---cta_description: questions, comments, or concerns? please don't hesitate to reach out. # a description to be desplayed below the heading and above the content--->
-<!---cta_button:  # a link to an external website or to media--->
-<!---cta_button_label: contact # the label on the button--->
-
 ---			
 [//]: # (write a bit about yourself here)
 
