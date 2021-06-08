@@ -41,3 +41,5 @@ portfolio_description: Read Emma's published flash fiction online for free.
 Emma is a full-time scientist and spare-time creative writer. She writes tiny stories called flash fiction.
 
 Her flash fiction has been published online on websites such as [Nanoism](https://nanoism.net/stories/841/) and [101 Words](https://101words.org/the-fairy-ring/). In December 2019, she won the [Scottish Book Trust’s 50 Word Fiction Competition](https://www.scottishbooktrust.com/50-word-fiction/december-2019-winners).
+
+Emma is a member of her local writing group, West Lothian Writers. More information about other members, meetings, and resources can be found on the WLWriters website.
