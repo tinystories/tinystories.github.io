@@ -39,7 +39,7 @@ However, please note that GitHub (the company which hosts this website) may coll
 [GitHub Privacy Policy](https://docs.github.com/en/github/site-policy/github-privacy-statement)
 
 ## Cookies
-This website does not collect cookies.
+This website **does not** collect cookies.
 
 ## Links to Third Party Websites
 We (the site owners) have included links on this website to external websites for your use and reference. We are not responsible for the privacy policies of these websites. You should be aware that the privacy policies of these websites may differ from our own.
@@ -48,6 +48,10 @@ We (the site owners) have included links on this website to external websites fo
 This privacy policy is effective as of **8th June 2021** and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
 It's unlikely that we will change this privacy policy, or start collecting personal information, but if we do, we will notify site visitors of this change on the home page of the website (https://tinystories.github.io/).
+
+Find revisions of our privacy policy on our website's GitHub repo.
+
+[Tiny Stories GitHub Repo](https://github.com/tinystories/tinystories.github.io)
 
 ## Contact Information
 For any questions, concerns regarding the privacy policy, or any other aspect of the website, please submit an issue through our website's GitHub repo.
