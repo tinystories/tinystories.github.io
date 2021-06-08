@@ -5,12 +5,12 @@ stories:
   - category: Flash Fiction
     items:
       - item: 05_stopped_clock.html
-        image: /images/05_stopped_clock.jpg
+        image: /images/05.jpg
       - item: 04_the_fairy_ring.html
-        image: /images/05_stopped_clock.jpg
+        image: /images/04.jpg
       - item: 03_the_winter_cabin.html
-        image: /images/05_stopped_clock.jpg
+        image: /images/03.jpg
       - item: 02_monster_repellent.html
-        image: /images/05_stopped_clock.jpg
+        image: /images/02.jpg
       - item: 01_untitled_story841.html 
-        image: /images/05_stopped_clock.jpg
+        image: /images/01.jpg
