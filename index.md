@@ -17,8 +17,8 @@ favicon: /assets/ico/favicon.ico
 github_username:  tinystories # your github username
 
 # By declaring these variables, you can include a button that links to an external website or to media.
-about_button: https://www.westlothianwriters.org.uk/ # the link
-about_button_label: visit the WLWriters website # the label on the button
+about_button:  # the link
+about_button_label:  # the label on the button
 
 # optional portfolio section ------------------------------------------
 
@@ -42,4 +42,4 @@ Emma is a full-time scientist and spare-time creative writer. She writes tiny st
 
 Her flash fiction has been published online on websites such as [Nanoism](https://nanoism.net/stories/841/) and [101 Words](https://101words.org/the-fairy-ring/). In December 2019, she won the [Scottish Book Trust’s 50 Word Fiction Competition](https://www.scottishbooktrust.com/50-word-fiction/december-2019-winners).
 
-Emma is a member of her local writing group, West Lothian Writers. More information about other members, meetings, and resources can be found on the WLWriters website.
+Emma is a member of her local writing group, [West Lothian Writers](https://www.westlothianwriters.org.uk/).
